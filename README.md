@@ -1,16 +1,28 @@
-## Hi there 👋
+<div align="center">
+  <h1>Hi 👋, I'm <a href="https://www.justin-dhillon.com/">Teddy Malhan</a></h1>
+  <h3>A Full Stack Developer from Canada 🇨🇦 </h3>
+  <img src="https://komarev.com/ghpvc/?username=teddymalhan">
+</div>
 
-<!--
-**teddymalhan/teddymalhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br> <img align="right" height="300" width="400" src="https://raw.githubusercontent.com/teddymalhan/teddymalhan/main/assets/working.gif"> <br>
 
-Here are some ideas to get you started:
+- 🎓 Simon Fraser University
+- 🧑‍💻 Full Stack Developer 
+- 🐧 Linux Enthusiast 
+- 📫 Send me an <a href="mailto:ama367@sfu.ca">Email</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h3>
+    <img src="https://raw.githubusercontent.com/teddymalhan/teddymalhan/main/assets/meteor.png" width="30" height="30">
+    Connect with me 
+    <img src="https://raw.githubusercontent.com/teddymalhan/teddymalhan/main/assets/hands.png" width="30" height="30">
+  </h3>
+  <div>
+    <a href="ama367@sfu.ca">
+      <img width="48" height="48" src="https://raw.githubusercontent.com/justindhillon/justindhillon/main/assets/linkedIn.gif"/>
+    </a>
+    <a href="mailto:ama367@sfu.ca">
+      <img width="48" height="48" src="https://raw.githubusercontent.com/justindhillon/justindhillon/main/assets/email.gif"/>
+    </a>
+  </div>
+</div>
