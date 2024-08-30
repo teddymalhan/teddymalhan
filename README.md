@@ -18,7 +18,7 @@
     <img src="https://raw.githubusercontent.com/teddymalhan/teddymalhan/main/assets/hands.png" width="30" height="30">
   </h3>
   <div>
-    <a href="linkedin.com/in/teddlymalhan">
+    <a href="https://linkedin.com/in/teddymalhan">
       <img width="48" height="48" src="https://raw.githubusercontent.com/justindhillon/justindhillon/main/assets/linkedIn.gif"/>
     </a>
     <a href="mailto:ama367@sfu.ca">
